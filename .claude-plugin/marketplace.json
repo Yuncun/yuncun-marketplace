@@ -31,13 +31,13 @@
     },
     {
       "name": "superpowers-for-shopping",
-      "description": "ADHD-helper for considered purchases. Takes 'I need a sweater' to a populated cart with one click. Multi-retailer Shopify search, thumbs-grid narrowing UI, in-flow login retry, purchase feedback loop, profile-driven ranking.",
+      "description": "Low-friction helper for considered purchases. Takes 'I need a sweater' to a populated cart with one click. Multi-retailer Shopify search, thumbs-grid narrowing UI, in-flow login retry, purchase feedback loop, profile-driven ranking.",
       "source": {
         "source": "url",
         "url": "https://github.com/Yuncun/superpowers-for-shopping.git"
       },
       "category": "productivity",
-      "keywords": ["shopping", "adhd", "claude-code", "agent-browser", "shopify"],
+      "keywords": ["shopping", "claude-code", "agent-browser", "shopify"],
       "homepage": "https://github.com/Yuncun/superpowers-for-shopping"
     }
   ]

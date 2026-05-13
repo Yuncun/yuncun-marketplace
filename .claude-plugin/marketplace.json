@@ -39,6 +39,18 @@
       "category": "productivity",
       "keywords": ["shopping", "claude-code", "agent-browser", "shopify"],
       "homepage": "https://github.com/Yuncun/superpowers-for-shopping"
+    },
+    {
+      "name": "pixterm-claude-code",
+      "description": "Pose-graph authoring skills for pixterm: agent-driven motion-prompt authoring on edges (/suggest-prompt), guided character authoring through Phases A-F (/design-character), collision-safe ADR creation (/adr-new), harness utilities.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Yuncun/pixterm-engine.git",
+        "path": "pixterm-claude-code"
+      },
+      "category": "productivity",
+      "keywords": ["pixterm", "pose-graph", "animation", "flf", "character-design"],
+      "homepage": "https://github.com/Yuncun/pixterm-engine"
     }
   ]
 }

@@ -51,6 +51,17 @@
       "category": "productivity",
       "keywords": ["pixterm", "pose-graph", "animation", "flf", "character-design"],
       "homepage": "https://github.com/Yuncun/pixterm-engine"
+    },
+    {
+      "name": "omakase-harness",
+      "description": "Enforced verification for Claude Code projects: a shared lefthook gate config (worktree + ADR guards) stamped into your repo, a deferred-gate scaffold, and an agent-operable gate-extension model. Enforce verification, don't advise it.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Yuncun/omakase-harness.git"
+      },
+      "category": "code-quality",
+      "keywords": ["lefthook", "git-hooks", "gates", "verification", "adr", "worktree", "harness", "claude-code"],
+      "homepage": "https://github.com/Yuncun/omakase-harness"
     }
   ]
 }

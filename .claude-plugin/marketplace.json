@@ -15,7 +15,15 @@
         "path": "plugins/social-credit"
       },
       "category": "humor",
-      "keywords": ["humor", "satire", "social-credit", "ai", "blockchain", "bitcoin", "opentimestamps"],
+      "keywords": [
+        "humor",
+        "satire",
+        "social-credit",
+        "ai",
+        "blockchain",
+        "bitcoin",
+        "opentimestamps"
+      ],
       "homepage": "https://github.com/Yuncun/ai-social-credit"
     },
     {
@@ -26,18 +34,28 @@
         "url": "https://github.com/Yuncun/grephook.git"
       },
       "category": "code-quality",
-      "keywords": ["ast-grep", "linting", "hooks", "code-quality", "ai-coding"],
+      "keywords": [
+        "ast-grep",
+        "linting",
+        "hooks",
+        "code-quality",
+        "ai-coding"
+      ],
       "homepage": "https://github.com/Yuncun/grephook"
     },
     {
       "name": "superpowers-for-shopping",
-      "description": "Low-friction shopping. /cart \"a new sweater\" → spinner → 5 picks already in real carts at the retailers → one Review button. No thumbs, no decisions, no nudges.",
+      "description": "Low-friction shopping. /cart \"a new sweater\" \u2192 spinner \u2192 5 picks already in real carts at the retailers \u2192 one Review button. No thumbs, no decisions, no nudges.",
       "source": {
         "source": "url",
         "url": "https://github.com/Yuncun/superpowers-for-shopping.git"
       },
       "category": "productivity",
-      "keywords": ["shopping", "claude-code", "shopify"],
+      "keywords": [
+        "shopping",
+        "claude-code",
+        "shopify"
+      ],
       "homepage": "https://github.com/Yuncun/superpowers-for-shopping"
     },
     {
@@ -49,19 +67,54 @@
         "path": "pixterm-claude-code"
       },
       "category": "productivity",
-      "keywords": ["pixterm", "pose-graph", "animation", "flf", "character-design"],
+      "keywords": [
+        "pixterm",
+        "pose-graph",
+        "animation",
+        "flf",
+        "character-design"
+      ],
       "homepage": "https://github.com/Yuncun/pixterm-engine"
     },
     {
       "name": "omakase-harness",
-      "description": "Inject a personal harness into any existing repo as a Claude Code plugin: overlay your rules, docs, and gates at real paths, keep them out of git, and run gates on your git hooks via lefthook. Additive and reversible — zero committed footprint.",
+      "description": "Inject a personal harness into any existing repo as a Claude Code plugin: overlay your rules, docs, and gates at real paths, keep them out of git, and run gates on your git hooks via lefthook. Additive and reversible \u2014 zero committed footprint.",
       "source": {
         "source": "url",
         "url": "https://github.com/Yuncun/omakase-harness.git"
       },
       "category": "code-quality",
-      "keywords": ["lefthook", "git-hooks", "gates", "harness", "overlay", "personal", "adoptability", "claude-code"],
+      "keywords": [
+        "lefthook",
+        "git-hooks",
+        "gates",
+        "harness",
+        "overlay",
+        "personal",
+        "adoptability",
+        "claude-code"
+      ],
       "homepage": "https://github.com/Yuncun/omakase-harness"
+    },
+    {
+      "name": "pixterm-harness",
+      "description": "pixterm's personal harness, built on the omakase-harness injector. Overlays pixterm's guards (worktree-discipline, adr-required, the visual-verify deferred gate) into the repo at real paths, keeps them out of git, and runs them on your git hooks via lefthook. Additive and reversible \u2014 zero committed footprint.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Yuncun/pixterm-harness.git"
+      },
+      "category": "code-quality",
+      "keywords": [
+        "lefthook",
+        "git-hooks",
+        "gates",
+        "harness",
+        "overlay",
+        "personal",
+        "pixterm",
+        "claude-code"
+      ],
+      "homepage": "https://github.com/Yuncun/pixterm-harness"
     }
   ]
 }

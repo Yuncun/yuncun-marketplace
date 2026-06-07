@@ -27,23 +27,6 @@
       "homepage": "https://github.com/Yuncun/ai-social-credit"
     },
     {
-      "name": "grephook",
-      "description": "A Claude Code plugin that uses ast-grep to deterministically prevent Claude from ignoring your coding rules. Built as an alternative to begging Claude to follow CLAUDE.md.",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/Yuncun/grephook.git"
-      },
-      "category": "code-quality",
-      "keywords": [
-        "ast-grep",
-        "linting",
-        "hooks",
-        "code-quality",
-        "ai-coding"
-      ],
-      "homepage": "https://github.com/Yuncun/grephook"
-    },
-    {
       "name": "superpowers-for-shopping",
       "description": "Low-friction shopping. /cart \"a new sweater\" \u2192 spinner \u2192 5 picks already in real carts at the retailers \u2192 one Review button. No thumbs, no decisions, no nudges.",
       "source": {

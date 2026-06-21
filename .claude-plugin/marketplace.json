@@ -63,7 +63,7 @@
     },
     {
       "name": "pixterm-harness",
-      "description": "pixterm's personal harness, built on the omakase-harness injector. Overlays pixterm's guards (worktree-discipline, adr-required, the visual-verify deferred gate) into the repo at real paths, keeps them out of git, and runs them on your git hooks via lefthook. Additive and reversible \u2014 zero committed footprint.",
+      "description": "pixterm's personal harness, built from omakase-harness. Overlays pixterm's guards (worktree-discipline, adr-required, and the visual-verify and review deferred gates) at real paths, kept out of git and run on your git hooks via lefthook. Additive and reversible.",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/Yuncun/pixterm-harness.git",

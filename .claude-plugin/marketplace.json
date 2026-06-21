@@ -65,8 +65,9 @@
       "name": "pixterm-harness",
       "description": "pixterm's personal harness, built on the omakase-harness injector. Overlays pixterm's guards (worktree-discipline, adr-required, the visual-verify deferred gate) into the repo at real paths, keeps them out of git, and runs them on your git hooks via lefthook. Additive and reversible \u2014 zero committed footprint.",
       "source": {
-        "source": "url",
-        "url": "https://github.com/Yuncun/pixterm-harness.git"
+        "source": "git-subdir",
+        "url": "https://github.com/Yuncun/pixterm-harness.git",
+        "path": "dist"
       },
       "category": "code-quality",
       "keywords": [

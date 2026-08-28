@@ -15,6 +15,8 @@ A small marketplace of Claude Code plugins. Install in any Claude Code session:
 
 - **[research-evidence](https://github.com/Yuncun/research-evidence)** — Research with human evidence: ranks sources by recent adoption (stars, points, dates); scripts for HN, Reddit, X, GitHub.
 
+- **[terminal-visuals](https://github.com/Yuncun/terminal-visuals)** — Visuals for replies read in a terminal: shape-by-question guide, examples, box-and-arrow renderer.
+
 ## Adding to this marketplace
 
 Edit `.claude-plugin/marketplace.json` and open a PR.

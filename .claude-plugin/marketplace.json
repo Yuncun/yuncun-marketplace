@@ -69,6 +69,15 @@
       },
       "description": "Research with human evidence: ranks sources by recent adoption (stars, points, dates); scripts for HN, Reddit, X, GitHub.",
       "version": "0.1.0"
+    },
+    {
+      "name": "terminal-visuals",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Yuncun/terminal-visuals.git"
+      },
+      "description": "Visuals for replies read in a terminal: shape-by-question guide, examples, box-and-arrow renderer.",
+      "version": "0.1.0"
     }
   ]
 }

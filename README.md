@@ -7,10 +7,10 @@ A small marketplace of Claude Code plugins. Install in any Claude Code session:
 /plugin install <plugin-name>@yuncun
 ```
 
-`yuncun` is the personal catalog name. The separate work repository,
-`gim-home/yuncun`, uses `yuncun-work`; its tools and access requirements are not
-part of this catalog. Register only the catalogs and install only the packages
-you want in each client.
+`yuncun` is this personal catalog's name. The separate work repository,
+`gim-home/yuncun`, also uses `yuncun`; its tools and access requirements are not
+part of this catalog. Select the appropriate source for each client. If `yuncun`
+is already registered, confirm its source before adding another catalog.
 
 Standalone skills can also be installed from their source repositories using
 `npx skills add`. Choose one installation route per skill and client rather than
